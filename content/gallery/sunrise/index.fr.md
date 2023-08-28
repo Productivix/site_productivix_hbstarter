@@ -1,7 +1,7 @@
 ---
-title: Sunrise
+title: Lever de soleil
 date: 2022-01-01T00:00:00+08:00
-description: Sunrise Photos
+description: Photos de levers de soleil
 resources:
   - src: 20240405000000.jpg
     params:

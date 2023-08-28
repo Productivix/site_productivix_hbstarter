@@ -1,11 +1,11 @@
 ---
 date: 2022-10-16T22:42:23+08:00
-title: 安装到 Ubuntu
+title: Installation sur Ubuntu
 linkTitle: Ubuntu
 series:
-  - 指南
+  - Guide
 categories:
-  - 安装
+  - Installation
 tags:
   - Linux
   - Ubuntu
@@ -15,4 +15,4 @@ authors:
   - razonyang
 ---
 
-This guide show you how to install on Ubuntu.
+Ce guide insique comment installer sur Ubuntu.

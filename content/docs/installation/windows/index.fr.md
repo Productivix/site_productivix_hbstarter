@@ -1,11 +1,11 @@
 ---
 date: 2022-09-06T22:42:23+08:00
-title: 安装到 Windows 系统
+title: INstallation sur Windows
 linkTitle: Windows
-series: 
-  - 指南
+series:
+  - Guide
 categories:
-  - 安装
+  - Installation
 tags:
   - Windows
 images:
@@ -15,4 +15,4 @@ authors:
   - razonyang
 ---
 
-This guide show you how to install on Windows.
+Ce guide montre comment installer sur Windows.

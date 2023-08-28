@@ -1,14 +1,14 @@
 ---
-title: "带有特色图片的示例文章"
+title: "Post exemple avec une image"
 date: 2022-02-04T20:26:48+08:00
 draft: false
 featured: true
 series:
-  - 指南
+  - Guide
 categories:
-  - 文章
+  - Posts
 tags:
-  - 特色图片
+  - Featured Image
 authors:
   - razonyang
 ---

@@ -1,4 +1,4 @@
-module github.com/hbstack/theme
+module github.com/Productivix/site_productivix_hbstarter
 
 go 1.19
 

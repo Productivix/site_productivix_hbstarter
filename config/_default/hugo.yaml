@@ -1,9 +1,9 @@
-baseURL: https://theme.hbstack.dev/
-title: HB Starter Theme Template
+baseURL: https://www.productivix.com/
+title: Votre app de scan pour tout android
 # Copyright, the {year} is the placeholder of this year.
-copyright: "Copyright © 2022-{year} [Hugo Modules](https://hugomods.com/) and [HB Framework](https://hbstack.dev/). All Rights Reserved."
-defaultContentLanguage: en
-defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
+copyright: "Copyright © 2023-{year} (https://www.productivix.com/) . All Rights Reserved."
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: false # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 enableEmoji: true
@@ -24,7 +24,7 @@ module:
 
     # syntax highlighting, see https://hbstack.dev/en/docs/modules/syntax-highlighting/.
     # - path: github.com/hbstack/syntax-highlighting/styles/github-dark
-  
+
     # icons modules
     - path: github.com/hugomods/icons/vendors/font-awesome
     # - path: github.com/hugomods/icons/vendors/mdi
@@ -71,13 +71,13 @@ module:
 outputs:
   home:
     - HTML
-    - Offline        # required by PWA module for displaying the offline pages.
+    - Offline # required by PWA module for displaying the offline pages.
     - RSS
-    - SearchIndex    # required by search module.
+    - SearchIndex # required by search module.
     - WebAppManifest # required by PWA module to make your site installable.
 
 taxonomies:
-  authors: authors       # multiple authors.
+  authors: authors # multiple authors.
   tags: tags
   categories: categories
   series: series
@@ -98,18 +98,18 @@ markup:
 related:
   includeNewer: true
   indices:
-  - name: keywords
-    weight: 100
-  - name: tags
-    weight: 80
-  - name: categories
-    weight: 60
-  - name: series
-    weight: 60
-  - name: authors
-    weight: 10
-  - name: date
-    weight: 10
+    - name: keywords
+      weight: 100
+    - name: tags
+      weight: 80
+    - name: categories
+      weight: 60
+    - name: series
+      weight: 60
+    - name: authors
+      weight: 10
+    - name: date
+      weight: 10
   threshold: 10 # for testing, increase it to suit your case.
   toLower: false
 
@@ -119,4 +119,3 @@ security:
       - ^HUGO
       - CI$
       - PWD
-

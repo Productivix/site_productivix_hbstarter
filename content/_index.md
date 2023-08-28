@@ -1,5 +1,5 @@
 ---
-title: HB Theme Template
+title: Your scan app for any android
 # menu:
 #   main:
 #     name: Home

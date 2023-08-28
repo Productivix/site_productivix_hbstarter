@@ -1,5 +1,5 @@
 ---
-title: 作者
+title: Auteurs
 menu:
   main:
     parent: blog
@@ -7,6 +7,6 @@ menu:
       icon:
         vendor: bs
         name: pencil
-        color: '#0f5e97'
-      description: 作者列表。
+        color: "#0f5e97"
+      description: liste d'auteurs
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Tutorial"
+title: "Tuto"
 # linkTitle:
 date: 2023-03-31T11:47:31+08:00
 draft: false
@@ -62,13 +62,7 @@ CODE
 ```
 ````
 
-{{% bootstrap/collapse "[lang]" %}}
 Replace `[lang]` with corresponding language identifier, such as `js`, `php`, `go`, `html` and so on.
-{{% /bootstrap/collapse %}}
-
-```js
-console.log("Hello world!");
-```
 
 ### Code Syntax Highlighting Styles
 
@@ -83,10 +77,6 @@ Import the desired style module and restart the Hugo server (load module's asset
 MATH
 ```
 ````
-
-```katex
-f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi
-```
 
 Read more on [KaTex Usage](https://hugomods.com/en/docs/content/katex/#usage).
 

@@ -2,7 +2,7 @@
 title: Votre app de scan pour tout android
 # menu:
 #   main:
-#     name: 主页
+#     name: Home
 #     weight: 1
 #     params:
 #       icon:

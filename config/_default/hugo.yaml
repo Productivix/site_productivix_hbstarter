@@ -3,7 +3,7 @@ title: Votre app de scan pour tout android
 # Copyright, the {year} is the placeholder of this year.
 copyright: "Copyright © 2023-{year} (https://www.productivix.com/) . All Rights Reserved."
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
+defaultContentLanguageInSubdir: true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 enableEmoji: true

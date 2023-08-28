@@ -9,6 +9,23 @@ main:
         vendor: font-awesome-solid
         name: headset
 
+  - name: Documentations
+    parent: support
+    url: https://hbstack.dev/
+    weight: 1
+    params:
+      icon:
+        vendor: bs
+        name: book
+        className: text-primary
+      description: Les documentations.
+
+  - identifier: support-divider
+    parent: support
+    weight: 10
+    params:
+      divider: true
+
   - name: GitHub
     parent: support
     url: https://github.com/hbstack
@@ -28,7 +45,7 @@ main:
         vendor: font-awesome-regular
         name: comments
         color: green
-      description: 提问题和分享你的想法。
+      description: discussions
 
   - name: Bugs
     parent: support

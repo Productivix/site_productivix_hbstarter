@@ -1,21 +1,24 @@
-description: The starter theme template of HB (Hugo Bootstrap) Framework.
+#description: The starter theme template of HB (Hugo Bootstrap) Framework.
 
 hb:
   # js_bundle_name: main # the JS bundle name.
   # css_bundle_name: main # the CSS bundle name.
   header:
-    brand: HB # the brand name, leave it empty to use site's title.
-    logo_bg: '#712cf9' # logo background color, used by logo with transparent background.
+    brand: # the brand name, leave it empty to use site's title.
+    logo_bg: "#712cf9" # logo background color, used by logo with transparent background.
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
-      github: hbstack
-      twitter: razonyang
+      github: Productivix
+      twitter: productivix
+      linkedin: william-piedfort-productivix
   footer:
+    powered_by: false
     # see https://hbstack.dev/en/docs/modules/socials/.
     socials:
       _color: true # when false, remove the color of social icons.
-      github: hbstack
-      twitter: razonyang
+      github: Productivix
+      twitter: productivix
+      linkedin: william-piedfort-productivix
   blog:
     full_width: false # when true, the blog layout takes full width.
     sidebar:
@@ -56,15 +59,15 @@ hb:
 
 seo:
   favicons: # see https://hugomods.com/en/docs/seo/#favicons-module
-    icon: images/logo.png # use logo as favicon.
+    icon: images/logo # use logo as favicon: images/logo.png - ici trouve pas alors prend favicon
 
 # PWA settings, see https://hugomods.com/en/docs/pwa/#site-parameters.
 pwa:
   debug: false
   manifest:
-    background_color: '#712cf9'
-    theme_color: '#712cf9'
-    short_name: 'HB Theme'
+    background_color: "#ffffff"
+    theme_color: green
+    short_name: "HB Theme"
 
 # see https://hugomods.com/en/docs/search/#site-parameters
 search:

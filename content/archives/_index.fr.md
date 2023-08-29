@@ -7,6 +7,6 @@ menu:
       icon:
         vendor: bs
         name: archive
-        color: "384955"
+        color: "#384955"
       description: Archives des posts
 ---

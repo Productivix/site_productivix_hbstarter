@@ -1,10 +1,11 @@
 # HB Theme Template
 
 The starter theme template of [HB Framework](https://hbstack.dev/), live demo: https://theme.hbstack.dev/.
+tranbslated FR / En by Productivix
 
 ## Documentations
 
-| English                                                                     | 简体中文                                                                    |
+| English                                                                     | French                                                                      |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | [Prerequisites](https://hbstack.dev/en/docs/getting-started/prerequisites/) | [先决条件](https://hbstack.dev/zh-hans/docs/getting-started/prerequisites/) |
 | [Installation](https://hbstack.dev/en/docs/getting-started/installation/)   | [安裝](https://hbstack.dev/zh-hans/docs/getting-started/installation/)      |
@@ -38,7 +39,8 @@ The starter theme template of [HB Framework](https://hbstack.dev/), live demo: h
 - **Menus**: supports header menus and footer menus.
 - Related posts slide.
 - :framed_picture: Image viewer: zoom in/out image.
-- :card_index_dividers: **Archives**: group by year and month.
+- :card_index_dividers:
+  **Archives**: group by year and month.
 - :memo: **Multiple authors**: articles can be co-authored.
 - :globe_with_meridians: **Multilingual**.
 - :arrow_left: **RTL**: supports Right-to-Left languages.

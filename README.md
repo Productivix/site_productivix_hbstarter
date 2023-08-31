@@ -1,7 +1,7 @@
-# HB Theme Template
+# HB Theme Template - translated French - English
 
 The starter theme template of [HB Framework](https://hbstack.dev/), live demo: https://theme.hbstack.dev/.
-tranbslated FR / En by Productivix
+translated FR / En by Productivix - based on https://github.com/hbstack/hb - version dated 29/08/2023
 
 ## Documentations
 

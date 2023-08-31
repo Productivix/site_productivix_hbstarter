@@ -36,15 +36,15 @@ authors:
   - hugomods
 ---
 
-A simple tutorial that offers samples and code snippets show how to create rich content, please refer to the [documentations](https://hbstack.dev/en/) for more usage.
+Un simple tuto qui offre des exemples et .. code snippets show how to create rich content, please refer to the [documentations](https://hbstack.dev/en/) for more usage.
 
 <!--more-->
 
 ## Installation
 
-**Please note that this theme requires Go installation the newest extended Hugo version.**
+**Notez svp que ce theme demande l'install de Go, the newest extended Hugo version.**
 
-Please check out the [installation](https://hbstack.dev/en/docs/getting-started/installation/) section.
+SVP vérifiez la section [installation](https://hbstack.dev/en/docs/getting-started/installation/) .
 
 ## Create Content
 

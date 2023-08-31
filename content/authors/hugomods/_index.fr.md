@@ -1,6 +1,6 @@
 ---
 title: Hugo Modules Authors
-description: Hugo 模块代码和文档的贡献者
+description: Codes des modules Hugo et documentations des contributeurs
 images:
   - https://avatars.githubusercontent.com/u/128204519?s=200&v=4
 socials:

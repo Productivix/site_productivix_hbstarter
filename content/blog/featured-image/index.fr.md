@@ -13,6 +13,6 @@ authors:
   - razonyang
 ---
 
-一篇带有特色图片的示例文章。
+一 exemple de post avec une image "featured"
 
 <!--more-->
